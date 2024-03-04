@@ -15,7 +15,7 @@ Aplicação kotlin.
 
 ![Telas do app android](https://cdn-kehhb.nitrocdn.com/iEJFLbwsQHQzpVjXnwXhzYxhRIedkADp/assets/images/optimized/rev-19facc8/devtechnosys.com/insights/wp-content/uploads/2022/04/How-Does-Language-Learning-App-Like-Duolingo-Works.png)
 
-![Tela de premiação do usuário](https://cdn-kehhb.nitrocdn.com/iEJFLbwsQHQzpVjXnwXhzYxhRIedkADp/assets/images/optimized/rev-19facc8/devtechnosys.com/insights/wp-content/uploads/2022/04/Effective-Strategies-to-Monetize-Your-Education-App-Like-Duolingo-1148x0.gif)
+<img src="https://cdn-kehhb.nitrocdn.com/iEJFLbwsQHQzpVjXnwXhzYxhRIedkADp/assets/images/optimized/rev-19facc8/devtechnosys.com/insights/wp-content/uploads/2022/04/Effective-Strategies-to-Monetize-Your-Education-App-Like-Duolingo-1148x0.gif" />
 
 
 
